@@ -9,8 +9,8 @@
     position: relative;
     font-family: "Goudy Bookletter 1911", sans-serif;
     font-size: 20px;
-    background-color: #FDF8F5;
-    color: #4F4846;
+    background-color: #c8d7d7;
+    color: #445d51;
   }
   
   h1,
@@ -101,6 +101,7 @@
     width: 120px;
     background-color: #4F4846;
     color: #FDF8F5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   }
    
   /* Class Selectors */
