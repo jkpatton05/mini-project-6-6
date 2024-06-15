@@ -7,11 +7,12 @@
   /* Element Selectors */
   body {
     position: relative;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
     background-color: #c8d7d7;
     color: #445d51;
   }
+
   
   h1,
   h2 {
@@ -25,11 +26,11 @@
   li {
     display: inline;
     padding: 20px;
-    text-decoration: none;
+    text-decoration: wavy;
   }
   
   a {
-    text-decoration: none;
+    text-decoration: wavy;
     color: #FDF8F5;
   }
   
